@@ -5,8 +5,7 @@ import BoxContainer from './components/BoxContainer';
 function App() {
   return (
     <Draggable>
-      <BoxContainer>
-      </BoxContainer>
+      <BoxContainer />
     </Draggable>
   );
 }
