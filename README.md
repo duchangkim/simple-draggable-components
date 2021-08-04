@@ -8,7 +8,7 @@
 # Start
 
 ```bash
-$ yarn start
-or
-$ npm start
+npm ci
+
+npm start
 ```
